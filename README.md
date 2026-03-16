@@ -1,4 +1,4 @@
-# 👋 Olá, meu nome é Ian
+# 👋 Olá, eu sou o Ian
 - ℹ️ Tenho 15 anos, estou no 2º ano do ensino médio e curso Desenvolvimento de Sistemas na ETEC Martin Luther King
 - 📫 Como me contatar:  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:veronezzi.ian@gmail.com)
